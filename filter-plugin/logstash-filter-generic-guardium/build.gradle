@@ -68,7 +68,7 @@ dependencies {
     // testCompile 'junit:junit:4.13.1'
     // testCompile 'org.jruby:jruby-complete:9.3.2.0'
 
-    testCompile 'junit:junit:4.12'
+    testCompile 'junit:junit:4.13.2'
     testCompile 'org.jruby:jruby-complete:9.2.7.0'
 
     //testCompile fileTree(dir: GUARDIUM_UNIVERSALCONNECTOR_COMMONS_PATH, include: "guardium-universalconnector-commons-*.*.*.jar")

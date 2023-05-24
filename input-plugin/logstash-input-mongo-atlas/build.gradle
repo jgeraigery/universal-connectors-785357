@@ -55,7 +55,7 @@ dependencies {
 
     //implementation 'com.google.code.gson:gson:2.8.9'
 
-    testCompile 'junit:junit:4.13.1'
+    testCompile 'junit:junit:4.13.2'
     testCompile 'org.jruby:jruby-complete:9.3.2.0'
 
     testCompile fileTree(dir: GUARDIUM_UNIVERSALCONNECTOR_COMMONS_PATH, include: "guardium-universalconnector-commons-?.?.?.jar")
