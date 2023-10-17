@@ -23,7 +23,7 @@ pluginInfo.pluginName      = "yugabytedb_guardium_filter" // must match the @Log
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
-def jacocoVersion = '0.8.4'
+def jacocoVersion = '0.8.11'
 // minimumCoverage can be set by Travis ENV
 def minimumCoverageStr = System.getenv("MINIMUM_COVERAGE") ?: "50.0%"
 if (minimumCoverageStr.endsWith("%")) {
