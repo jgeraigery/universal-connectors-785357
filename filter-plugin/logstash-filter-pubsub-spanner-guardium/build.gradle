@@ -71,7 +71,7 @@ shadowJar {
 
 dependencies {
     implementation 'com.google.code.gson:gson:2.8.9'
-    implementation 'org.apache.commons:commons-lang3:3.7'
+    implementation 'org.apache.commons:commons-lang3:3.14.0'
     implementation 'commons-validator:commons-validator:1.7'
 
     testImplementation group: 'org.mockito', name: 'mockito-all', version: '2.0.2-beta'
